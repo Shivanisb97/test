@@ -1,0 +1,48 @@
+.h4{
+    height: 20vh;
+}
+.new{
+    height: 20vh;
+}
+.new1{
+    height: 20vh;
+}
+.new2{
+    height: 20vh;
+}
+
+			.search-input{
+				padding: 0.45rem;
+				font-size: 0.9rem;
+			}
+			.search-icon{
+				padding: 0.45rem;
+			}
+
+			.product-menu-img{
+				height:40 px;
+			}
+            .navbar-brand{
+               
+                font-size: 2rem;
+                margin-left: 20px;
+            }
+            .btn{
+                font-size: 1.2rem;
+                margin-left: 20px;
+            }
+            .best{
+                font-size: 2.5rem;
+                font-weight: bold;
+                margin-top: 50px;
+            }
+            .img{
+                height:30vh ;
+                margin-left: 10px;
+                margin-top:0px ;
+            }
+            .text-center lh-1{
+                font-size: 1rem;
+                margin-left: 200px;
+            }
+	
